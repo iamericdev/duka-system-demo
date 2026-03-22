@@ -101,7 +101,7 @@ export const DashboardView = () => {
       <div className="flex items-center justify-between">
         <div>
           <h1 className="text-2xl font-bold text-slate-900">Dashboard</h1>
-          <p className="text-sm text-slate-400">Welcome Back, Robert!</p>
+          <p className="text-sm text-slate-400">Welcome Back, Ricky!</p>
         </div>
         <button className="flex items-center gap-2 px-4 py-2 bg-white border border-slate-200 rounded-xl text-sm font-medium text-slate-700 hover:bg-slate-50 transition-colors shadow-sm">
           <Calendar size={18} className="text-slate-400" />
